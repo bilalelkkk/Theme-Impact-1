@@ -278,7 +278,6 @@
       ],
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/I-CLIP_Original_SilbernerRahmen_offen_mitScheinenKopie_d5d4a98a-3a2a-479e-aec1-44a04a661433.webp",
         "title": "",
         "content": "",
         "button_text": "",
@@ -381,7 +380,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "i-clip-original-frequent-traveller-blue",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
