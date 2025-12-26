@@ -56,6 +56,7 @@
         "logo_ce9k6n": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/GBA25_HO_WINNER_MC_RGB-1024x590.png",
             "logo_width": 120,
             "link": ""
           }
@@ -63,6 +64,7 @@
         "logo_XFqzwQ": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/top100-troph-edited.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -70,6 +72,7 @@
         "logo_dmNQVx": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/ESG_Logo01.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -77,6 +80,7 @@
         "logo_VELeY9": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/GQ.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -113,6 +117,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/1.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
