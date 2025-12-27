@@ -277,14 +277,6 @@
           "type": "separator",
           "settings": {}
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
-        },
         "variant-picker": {
           "type": "variant_picker",
           "settings": {
@@ -303,9 +295,9 @@
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
+            "atc_button_background": "#f0c417",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -319,7 +311,6 @@
         "price",
         "rating",
         "separator",
-        "description",
         "variant-picker",
         "quantity-selector",
         "buy-buttons"
