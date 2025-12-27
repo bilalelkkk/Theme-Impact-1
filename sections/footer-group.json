@@ -82,19 +82,10 @@
             "title": "Abonnieren Sie unseren Newsletter für Neuigkeiten und exklusive Angebote",
             "content": ""
           }
-        },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
         }
       },
       "block_order": [
-        "newsletter",
-        "links"
+        "newsletter"
       ],
       "settings": {
         "show_social_media": true,
