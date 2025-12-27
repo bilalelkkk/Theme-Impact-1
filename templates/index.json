@@ -110,22 +110,6 @@
         "logo_item_border": ""
       }
     },
-    "image_with_text_overlay_wmq4jx": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "before-after-image": {
       "type": "before-after-image",
       "settings": {
@@ -158,7 +142,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Share info about what your customers say about your products.",
+            "content": "\"TESTSIEGER bei den Slim Wallets! Kunden lieben den RFID-Schutz und das Design.\"",
             "show_rating": false,
             "rating": 4
           }
@@ -404,7 +388,6 @@
   "order": [
     "slideshow",
     "logo_list_kXHKfq",
-    "image_with_text_overlay_wmq4jx",
     "before-after-image",
     "press",
     "hot-spots",
