@@ -174,8 +174,8 @@
             "horizontal_position_mobile": 24,
             "vertical_position_mobile": 70,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "",
+            "content": "<p>Unser integriertes Banknotenfach sorgt für eine klare und hochgradig organisierte Aufbewahrung Ihrer Scheine. Es ist leicht zugänglich, hält die Banknoten flach und bietet großzügigen Platz für bis zu 20 Scheine – perfekt für alle, die noch gerne mit Bargeld zahlen.</p>"
           }
         },
         "1664424434f5b7d0e0-1": {
@@ -223,8 +223,8 @@
         "overlay_text_color": "#ffffff",
         "overlay_button_background": "",
         "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_dot_background": "#000000",
+        "hot_spot_dot_text_color": "#ffffff",
         "hot_spot_content_background": "#ffffff",
         "hot_spot_content_text_color": "#000000",
         "hot_spot_content_opacity": 90,
