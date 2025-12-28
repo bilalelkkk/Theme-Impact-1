@@ -335,29 +335,37 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Aus welchen Materialien bestehen Ihre Geldbörsen ?",
+            "content": "<p>Unsere Geldbörsen werden aus hochwertigen Materialien gefertigt, die Ästhetik und Langlebigkeit vereinen. Wir verwenden vollnarbiges Leder, das von ausgewählten europäischen Gerbereien bezogen wird, sowie eine langlebige Innenstruktur (Kohlefaser, Aluminium oder technisches Polymer, je nach Modell), um Leichtigkeit und Widerstandsfähigkeit zu gewährleisten.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Bietet die Geldbörse einen RFID-Schutz ?",
+            "content": "<p>Ja, die Sicherheit Ihrer Daten hat für uns Priorität. Alle unsere Geldbörsen verfügen über einen integrierten Anti-RFID-/NFC-Schutz, um unbefugte Leseversuche (Skimming) Ihrer kontaktlosen Karten zu blockieren.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Wie kann ich eine Reklamation im Schadensfall einreichen ?",
+            "content": "<p>Sollte Ihre Geldbörse einen von der Garantie abgedeckten Defekt oder Schaden aufweisen, wenden Sie sich bitte per E-Mail an unseren Kundendienst unter service@votreadresse.com. Um die Bearbeitung zu beschleunigen, fügen Sie bitte ein klares Foto des Defekts sowie Ihren Kaufbeleg bei.</p>"
+          }
+        },
+        "item_Cxb7EN": {
+          "type": "item",
+          "settings": {
+            "title": "Ich habe eine Frage, die nicht in den FAQs enthalten ist – wie kann ich Sie kontaktieren ?",
+            "content": "<p>Wir stehen Ihnen gerne zur Verfügung! Sie können uns eine E-Mail senden an:</p><ul><li><strong>Kundendienst und Support :</strong> service@votreadresse.com</li><li><strong>Fragen zum Datenschutz :</strong> protectiondesdonnees@votreadresse.com<br/><br/>Wir bemühen uns, Ihnen innerhalb von 24 bis 48 Geschäftsstunden zu antworten.</li></ul>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_Cxb7EN"
       ],
       "settings": {
         "full_width": false,
