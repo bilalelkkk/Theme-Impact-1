@@ -110,26 +110,46 @@
         "logo_item_border": ""
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
+    "rich_text_QX6X4j": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qnGXjx": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir le legging 3D Keralis ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_qnGXjx"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Avant / Après",
-        "content": "",
-        "expand_image": false,
+        "content_width": "small",
         "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_MRKiGy": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/imgi_7_Copie_de_100_Templates_di_Creative_per_Ads_-_2025-07-09T015202.912.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "press": {
@@ -352,7 +372,8 @@
   "order": [
     "slideshow",
     "logo_list_kXHKfq",
-    "before-after-image",
+    "rich_text_QX6X4j",
+    "image_with_text_overlay_MRKiGy",
     "press",
     "featured-product",
     "custom_liquid_PqgD3j",
