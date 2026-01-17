@@ -23,7 +23,7 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Sichere Zahlung",
+            "title": "Paiement sécurisé",
             "content": ""
           }
         },
@@ -36,7 +36,7 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Kundenservice",
+            "title": "Service client 7J/7",
             "content": ""
           }
         },
@@ -49,7 +49,7 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Kostenlose Lieferung",
+            "title": "Livraison offerte",
             "content": ""
           }
         }
