@@ -306,29 +306,57 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Aus welchen Materialien bestehen Ihre Geldbörsen ?",
-            "content": "<p>Unsere Geldbörsen werden aus hochwertigen Materialien gefertigt, die Ästhetik und Langlebigkeit vereinen. Wir verwenden vollnarbiges Leder, das von ausgewählten europäischen Gerbereien bezogen wird, sowie eine langlebige Innenstruktur (Kohlefaser, Aluminium oder technisches Polymer, je nach Modell), um Leichtigkeit und Widerstandsfähigkeit zu gewährleisten.</p>"
+            "title": "Que faire si je me suis trompée de taille ?",
+            "content": "<p>Aucun souci.<br/><br/>Si la taille ne vous convient pas, Keralis vous propose un échange simple et rapide.<br/><br/>Il vous suffit de contacter notre service client, et nous vous accompagnerons pour trouver la taille parfaite.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Bietet die Geldbörse einen RFID-Schutz ?",
-            "content": "<p>Ja, die Sicherheit Ihrer Daten hat für uns Priorität. Alle unsere Geldbörsen verfügen über einen integrierten Anti-RFID-/NFC-Schutz, um unbefugte Leseversuche (Skimming) Ihrer kontaktlosen Karten zu blockieren.</p>"
+            "title": "Quand vais-je recevoir ma commande ?",
+            "content": "<p>Toutes les commandes Keralis sont traitées et expédiées sous 24 à 48 heures.<br/><br/>La livraison standard prend ensuite 5 à 8 jours ouvrables, selon votre localisation.</p><p>Vous recevrez un e-mail de confirmation avec un numéro de suivi dès l’expédition.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Wie kann ich eine Reklamation im Schadensfall einreichen ?",
-            "content": "<p>Sollte Ihre Geldbörse einen von der Garantie abgedeckten Defekt oder Schaden aufweisen, wenden Sie sich bitte per E-Mail an unseren Kundendienst unter service@votreadresse.com. Um die Bearbeitung zu beschleunigen, fügen Sie bitte ein klares Foto des Defekts sowie Ihren Kaufbeleg bei.</p>"
+            "title": "Comment la compression 3D Keralis aide-t-elle à la perte de poids ?",
+            "content": "<p>La compression 3D Keralis exerce une résistance ciblée sur vos muscles lors de vos mouvements quotidiens ou sportifs.</p><p>👉 Résultat :</p><ul><li>Vos jambes travaillent jusqu’à 2 à 3 fois plus<br/></li><li>Vos muscles brûlent davantage de calories<br/></li><li>Votre corps dépense plus d’énergie, même au repos<br/></li></ul><p>Cela contribue à une perte de graisse plus rapide, lorsqu’elle est associée à une activité régulière et une hygiène de vie équilibrée.</p>"
           }
         },
         "item_Cxb7EN": {
           "type": "item",
           "settings": {
-            "title": "Ich habe eine Frage, die nicht in den FAQs enthalten ist – wie kann ich Sie kontaktieren ?",
-            "content": "<p>Wir stehen Ihnen gerne zur Verfügung! Sie können uns eine E-Mail senden an:</p><ul><li><strong>Kundendienst und Support :</strong> service@votreadresse.com</li><li><strong>Fragen zum Datenschutz :</strong> protectiondesdonnees@votreadresse.com<br/><br/>Wir bemühen uns, Ihnen innerhalb von 24 bis 48 Geschäftsstunden zu antworten.</li></ul>"
+            "title": "Comment les lignes sculptantes 3D aident-elles à réduire la cellulite ?",
+            "content": "<p>Les lignes sculptantes 3D Keralis sont placées stratégiquement autour des cuisses et des fesses pour :</p><ul><li>Stimuler la circulation sanguine (jusqu’à +30 %)<br/></li><li>Favoriser l’élimination des toxines et cellules graisseuses<br/></li><li>Lisser visiblement l’aspect peau d’orange<br/></li></ul><p>Combinées à la compression 3D, elles aident à raffermir, galber et tonifier les jambes jour après jour.</p>"
+          }
+        },
+        "item_r8bqtU": {
+          "type": "item",
+          "settings": {
+            "title": "Les leggings Keralis sont-ils vraiment opaques ?",
+            "content": "<p>Oui, 100 % opaques.<br/><br/>Nos leggings Keralis sont conçus avec un tissu premium haute densité qui reste totalement opaque, même :</p><ul><li>En squat<br/></li><li>En étirement<br/></li><li>Lors de mouvements intenses<br/></li></ul><p>Zéro transparence, zéro compromis.</p>"
+          }
+        },
+        "item_wFtyrJ": {
+          "type": "item",
+          "settings": {
+            "title": "Conviennent-ils à toutes les morphologies ?",
+            "content": "<p>Oui.<br/><br/>Les leggings Keralis sont adaptés à toutes les morphologies, grâce à :</p><ul><li>Leur élasticité multidirectionnelle<br/></li><li>Leur taille haute gainante<br/></li><li>Leur compression progressive<br/></li></ul><p>Nous recommandons simplement de consulter notre guide des tailles avant commande.</p>"
+          }
+        },
+        "item_e3xJXw": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si je ne suis pas satisfaite ?",
+            "content": "<p>Votre satisfaction est notre priorité.<br/><br/>C’est pourquoi Keralis offre une garantie satisfait ou remboursé de 30 jours.</p><p>Si vous n’êtes pas entièrement satisfaite :</p><ul><li>Contactez-nous<br/></li><li>Nous procéderons à un remboursement complet sous 5 à 7 jours ouvrables<br/></li></ul><p>Les retours et échanges sont simples et rapides, notamment en cas d’erreur de taille.</p>"
+          }
+        },
+        "item_C6DYxg": {
+          "type": "item",
+          "settings": {
+            "title": "Comment contacter le service client Keralis ?",
+            "content": "<p>Notre équipe est disponible et à votre écoute.<br/><br/>Vous pouvez nous contacter via :</p><ul><li>Le formulaire de contact<br/></li><li>L’adresse e-mail indiquée sur le site<br/></li></ul><p>Nous répondons généralement sous 24 heures.</p>"
           }
         }
       },
@@ -336,12 +364,16 @@
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_Cxb7EN"
+        "item_Cxb7EN",
+        "item_r8bqtU",
+        "item_wFtyrJ",
+        "item_e3xJXw",
+        "item_C6DYxg"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
+        "title": "Les questions les plus fréquentes",
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
