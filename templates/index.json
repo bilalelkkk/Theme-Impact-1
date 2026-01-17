@@ -197,10 +197,6 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -215,17 +211,6 @@
           "type": "rating",
           "settings": {
             "show_empty": false
-          }
-        },
-        "variant-picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "color",
-            "variant_image_options": "",
-            "size_chart_page": ""
           }
         },
         "liquid_Cd3ynV": {
@@ -253,11 +238,9 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "badges",
         "rating",
-        "variant-picker",
         "liquid_Cd3ynV",
         "buy_buttons_ncqY3U",
         "liquid_hT6ep9"
