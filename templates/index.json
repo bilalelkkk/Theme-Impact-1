@@ -287,6 +287,12 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_jDEftN": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -341,6 +347,7 @@
         }
       },
       "block_order": [
+        "liquid_jDEftN",
         "title",
         "liquid_wB47g4",
         "badges",
