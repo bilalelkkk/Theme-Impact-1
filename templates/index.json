@@ -15,12 +15,14 @@
         "image_b7kQNL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Banniere.webp",
+            "mobile_image": "shopify://shop_images/Banniere.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "subheading": "",
-            "title": "Aufgequollenes Portemonnaie. Ungeschützte Daten.Wählen Sie Schlankheit und Sicherheit.",
-            "heading_tag": "h4",
+            "title": "Marre de ta cellulite ? Élimine-la !",
+            "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -95,7 +97,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur",
+        "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
@@ -113,13 +115,13 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Vorher / Nachher",
+        "title": "Avant / Après",
         "content": "",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
-        "before_text": "Vorher",
-        "after_text": "Nachher",
+        "before_text": "Avant",
+        "after_text": "Après",
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
@@ -128,73 +130,6 @@
         "after_text_color": "#ffffff",
         "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
-      }
-    },
-    "hot-spots": {
-      "type": "hot-spots",
-      "blocks": {
-        "1664424434f5b7d0e0-0": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 24,
-            "vertical_position": 70,
-            "horizontal_position_mobile": 24,
-            "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "",
-            "content": "<p>Das Herzstück unseres Portemonnaies ist das Kartenfach, das für bis zu 12 Karten ausgelegt ist. Es gewährleistet einen sicheren Halt all Ihrer Karten, von Kreditkarten bis hin zu Ausweisen. Dank des integrierten RFID-Schutzes sind Ihre Daten vor elektronischem Diebstahl geschützt. Der schnelle Zugriff auf die Karten erfolgt dabei durch einen einfachen Daumendruck.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-1": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 62,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 62,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "",
-            "content": "<p>Unser integriertes Banknotenfach sorgt für eine klare und hochgradig organisierte Aufbewahrung Ihrer Scheine. Es ist leicht zugänglich, hält die Banknoten flach und bietet großzügigen Platz für bis zu 20 Scheine. Perfekt für alle, die noch gerne mit Bargeld zahlen.</p>"
-          }
-        },
-        "1664424434f5b7d0e0-2": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 83,
-            "vertical_position": 75,
-            "horizontal_position_mobile": 83,
-            "vertical_position_mobile": 75,
-            "icon_width": 32,
-            "title": "",
-            "content": "<p>Hochwertiges Echtleder in eleganter Kroko-Optik verleiht diesem Portemonnaie einen markanten Look. Der sichere Druckknopfverschluss hält alles kompakt und schützt den Inhalt zuverlässig. Eine saubere Verarbeitung für den täglichen Gebrauch.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424434f5b7d0e0-0",
-        "1664424434f5b7d0e0-1",
-        "1664424434f5b7d0e0-2"
-      ],
-      "settings": {
-        "full_width": false,
-        "title": "",
-        "content": "",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#000000",
-        "hot_spot_dot_text_color": "#ffffff",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
       }
     },
     "press": {
@@ -418,7 +353,6 @@
     "slideshow",
     "logo_list_kXHKfq",
     "before-after-image",
-    "hot-spots",
     "press",
     "featured-product",
     "custom_liquid_PqgD3j",
