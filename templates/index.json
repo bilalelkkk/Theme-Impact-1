@@ -163,10 +163,20 @@
             "text_color": "",
             "gradient": ""
           }
+        },
+        "image_GgG7Qk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/781b9ade6408414095d200b2b1739ac4.HD-1080p-7.2Mbps-61299556.gif",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
         }
       },
       "block_order": [
-        "heading_fHyjAH"
+        "heading_fHyjAH",
+        "image_GgG7Qk"
       ],
       "name": "Rich text",
       "settings": {
@@ -176,35 +186,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "press": {
-      "type": "press",
-      "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "\"TESTSIEGER bei den Slim Wallets ! Kunden lieben den RFID-Schutz und das Design.\"",
-            "show_rating": false,
-            "rating": 4
-          }
-        }
-      },
-      "block_order": [
-        "16644243327ba53d2a-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "featured-product": {
@@ -401,7 +382,6 @@
     "rich_text_QX6X4j",
     "image_with_text_overlay_MRKiGy",
     "rich_text_hrfthn",
-    "press",
     "featured-product",
     "custom_liquid_PqgD3j",
     "faq",
