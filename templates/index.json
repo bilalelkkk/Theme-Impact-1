@@ -15,7 +15,6 @@
         "image_b7kQNL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Croco_zwart_1_3cca0d78-ffe7-4b9f-a4d5-9c2816d54b1c.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
@@ -56,32 +55,32 @@
         "logo_ce9k6n": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/GBA25_HO_WINNER_MC_RGB-1024x590.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_XFqzwQ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/top100-troph-edited.webp",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/8K.svg",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_dmNQVx": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ESG_Logo01.webp",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
+            "logo_width": 300,
             "link": ""
           }
         },
         "logo_VELeY9": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/GQ.webp",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo_width": 300,
             "link": ""
           }
         }
@@ -96,7 +95,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Gesehen am :",
+        "title": "Vu sur",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
@@ -116,8 +115,6 @@
         "subheading": "",
         "title": "Vorher / Nachher",
         "content": "",
-        "before_image": "shopify://shop_images/Portefeuille_pour_homme_portefeuille_a_deux_volets_portefeuille_en_cuir_veritable_antivol_RFID_style_moderne.jpg",
-        "after_image": "shopify://shop_images/Slim-olijfgroenWEB.webp",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -180,7 +177,6 @@
       ],
       "settings": {
         "full_width": false,
-        "image": "shopify://shop_images/Croco-Zwart_4WEB.png",
         "title": "",
         "content": "",
         "button_text": "",
