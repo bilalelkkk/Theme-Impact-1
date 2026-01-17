@@ -202,9 +202,9 @@
           "settings": {
             "image": "shopify://shop_images/1.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>« Je n’osais plus porter de short ni aller à la plage. Après 2 mois à porter le legging 3D Keralis environ 2h par jour, ma peau est visiblement plus lisse et j’ai retrouvé confiance en moi. Je ne m’en passe plus. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -215,9 +215,9 @@
           "settings": {
             "image": "shopify://shop_images/2.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>« J’étais très sceptique au départ, mais après quelques mois d’utilisation à raison de 2h par jour, les résultats sont bien là. Ma peau est plus lisse et je me sens plus affinée, sans avoir changé mes habitudes. C’est devenu un vrai rituel quotidien. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -228,9 +228,35 @@
           "settings": {
             "image": "shopify://shop_images/3.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>« Je pensais acheter un simple legging tendance… mais j’ai été agréablement surprise. J’ai vu une vraie amélioration sur l’aspect de ma cellulite, sans modifier ma routine. Honnêtement, je ne m’attendais pas à autant. »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kGdcbb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>« Ayant la peau très sensible, j’avais un peu peur au début. Finalement, après 3 mois de sport avec ce legging, aucune irritation. Il est très doux, confortable et m’a vraiment accompagnée dans mes efforts. »</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LAqDpD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>« J’ai testé énormément de solutions contre la cellulite, sans succès. Le legging 3D Keralis est le seul qui m’a donné des résultats visibles. En le portant 4h par jour, j’ai vu une vraie différence. C’est de loin le produit le plus efficace que j’ai essayé. »</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -240,7 +266,9 @@
       "block_order": [
         "item_JRkVLA",
         "item_DVB8Td",
-        "item_tCxgzk"
+        "item_tCxgzk",
+        "item_kGdcbb",
+        "item_LAqDpD"
       ],
       "name": "Multi-column",
       "settings": {
