@@ -32,7 +32,7 @@
         "text_size": "text-xs",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#000000",
+        "background": "#faaec1",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -57,7 +57,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#000000",
-        "reduce_padding": false,
+        "reduce_padding": true,
         "background_opacity": 100,
         "background_blur_radius": 20
       }

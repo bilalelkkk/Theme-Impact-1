@@ -152,6 +152,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_hrfthn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fHyjAH": {
+          "type": "heading",
+          "settings": {
+            "text": "Une technologie de compression 3D qui accélère la perte de graisse et réduit la cellulite",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_fHyjAH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "press": {
       "type": "press",
       "blocks": {
@@ -374,6 +400,7 @@
     "logo_list_kXHKfq",
     "rich_text_QX6X4j",
     "image_with_text_overlay_MRKiGy",
+    "rich_text_hrfthn",
     "press",
     "featured-product",
     "custom_liquid_PqgD3j",
