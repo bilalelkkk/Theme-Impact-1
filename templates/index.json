@@ -194,6 +194,68 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_MhngER": {
+      "type": "multi-column",
+      "blocks": {
+        "item_JRkVLA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DVB8Td": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tCxgzk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_JRkVLA",
+        "item_DVB8Td",
+        "item_tCxgzk"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Elles ont accepté de partager leur expérience avec vous",
+        "content": "<p><strong>Excellent 4.7 / 5 </strong>★★★★★<br/>basé sur <strong>+1000 </strong>avis</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -474,6 +536,7 @@
     "image_with_text_overlay_MRKiGy",
     "rich_text_Gq7rJT",
     "image_with_text_overlay_Q6zmWQ",
+    "multi_column_MhngER",
     "featured-product",
     "multi_column_UhcHBV",
     "custom_liquid_GmN6KB",
